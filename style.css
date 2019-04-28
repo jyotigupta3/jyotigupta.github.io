@@ -1,0 +1,96 @@
+.navbar{
+	background-color: white;
+}
+.navbar-brand{
+	font: 40px Georgia,serif;
+}
+p{
+	font: 30px Georgia,serif;
+	align-self: baseline;	
+}
+ul{
+	font: 20px Georgia,serif ;
+	font-style: italic;
+}
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 20px;
+}
+
+a{
+	color: #fff;
+	font-weight: 900;
+	font-size: 20px;
+}
+ul button{
+	margin: 20px;
+}
+#aboutus{
+	margin-left: 85px;
+}
+.box{
+	margin: 10px;
+	padding: 20px;
+	padding-bottom: 50px;
+	background: #dddddd;
+	text-align: center;
+	font-family: "Times New Roman", serif;
+	border-radius: 5px;
+}
+
+
+#profile{
+	background-color: #5bc8ba!important;
+	text-align: center;
+	padding: 8px 15px;
+  font-size: 15px;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 6px #0e5d53;
+}
+
+#profile:hover {background-color: #3e8e41}
+
+#profile:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.boxForm{
+	padding: 15px;
+	background: #ffffff;
+	margin-top: 10px;
+	border: 2px solid #888;
+}
+.boxForm h2{
+	color: #000;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 800;
+}
+.boxForm label{
+	padding-left: 20px;
+}
+.boxForm input{
+	margin-bottom: 10px;
+}
+.boxForm select{
+	margin-bottom: 10px;
+}
+footer{
+	margin-top: 30px;
+	padding: 20px;
+	background: #d9534f;
+	color: #fff;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 800;
+}
+footer span i{
+	padding-left: 30px;
+	
+}
+
+
